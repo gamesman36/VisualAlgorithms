@@ -1,0 +1,1 @@
+Compiled with GNU's C++ compiler. Run the command "make" in the terminal to produce a default-named executable (a.out).
